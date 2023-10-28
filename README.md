@@ -1,16 +1,27 @@
-### Hi there 👋
 
-<!--
-**KirilMadzharov/KirilMadzharov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Hello, world! I'm Kiril Madzharov
 
-Here are some ideas to get you started:
+🎓 Educational Journey:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻  Software Developemnt student at SoftUni.
+🎶 Bachelor's in Music Production and Sound Engineering.
+🖥️ Currently pursuing my Master's degree in Computer Science.
+
+🛤️ My Transition into Tech:
+
+🚚 Former Operations Manager in the transport sector, I've always been intrigued by systems, processes, and efficiency.
+🏛️ Presently, I serve my community as a Civil Servant.
+
+💻 Coding Journey:
+
+Although I began my journey into coding just a year ago, the convergence of my diverse background makes me view problems from a unique perspective.
+📚 Personal Interests:
+
+Beyond code, I have a deep appreciation for music, stemming from my academic background.
+I love to get lost in the world of books and always look forward to reading
+
+🔍 Looking Ahead:
+
+Eager to contribute and collaborate on meaningful projects.
+Continually seeking opportunities to learn and grow as a software developer.
+Let's connect and code together!
