@@ -1,27 +1,22 @@
 
- Hello, world! I'm Kiril Madzharov
+Hello World! 
 
-🎓 Educational Journey:
+My name is Kiril Madzharov.
 
-💻  Software Developemnt student at SoftUni.
-🎶 Bachelor's in Music Production and Sound Engineering.
-🖥️ Currently pursuing my Master's degree in Computer Science.
+**Educational Journey:**
 
-🛤️ My Transition into Tech:
+Currently a Software Development student at SoftUni.
+Hold a Bachelor's degree in Music Production and Sound Engineering.
+In the midst of pursuing my Master's degree in Computer Science.
 
-🚚 Former Operations Manager in the transport sector, I've always been intrigued by systems, processes, and efficiency.
-🏛️ Presently, I serve my community as a Civil Servant.
 
-💻 Coding Journey:
+**Transition into Tech:**
 
-Although I began my journey into coding just a year ago, the convergence of my diverse background makes me view problems from a unique perspective.
-📚 Personal Interests:
+Previously worked as an Operations Manager in the transport sector, where I developed a fascination for systems, processes, and efficiency.
+Now, I actively serve my community in a Civil Servant role.
 
-Beyond code, I have a deep appreciation for music, stemming from my academic background.
-I love to get lost in the world of books and always look forward to reading
 
-🔍 Looking Ahead:
+**Coding Journey:**
 
-Eager to contribute and collaborate on meaningful projects.
-Continually seeking opportunities to learn and grow as a software developer.
-Let's connect and code together!
+I embarked on my coding path merely a year ago, but my diverse background equips me with a unique vantage point when approaching problems.
+
