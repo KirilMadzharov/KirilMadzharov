@@ -18,5 +18,5 @@ Now, I actively serve my community in a Civil Servant role.
 
 **Coding Journey:**
 
-I embarked on my coding path merely a year ago, but my diverse background equips me with a unique vantage point when approaching problems.
+I embarked on my coding path in February 2023, but my diverse background equips me with a unique vantage point when approaching problems.
 
